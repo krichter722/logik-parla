@@ -10,11 +10,11 @@ A data mining experiment for the course "Die Logik parlamentarischer Demokratie:
                            v
     #################################################
     # Identification of relevant newspaper articles #
-    # (Weka)                                        #
+    # (Apache Flink, Weka)                          #
     #################################################
-               |
-               v
-    ########################
-    # Analysis             #
-    # (R, sagemath, Stata) #
-    ########################
+                   |
+                   v
+    ##############################
+    # Analysis                   #
+    # (Weka, R, sagemath, Stata) #
+    ##############################
